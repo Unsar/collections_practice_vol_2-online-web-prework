@@ -9,8 +9,6 @@ ef contain_a(arr)
     arr.select do |string|
     string.include?("a")
   end
-end
-end
 
  def first_wa(arr)
     arr.detect do |string|
