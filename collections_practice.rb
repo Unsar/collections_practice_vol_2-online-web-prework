@@ -10,6 +10,7 @@ ef contain_a(arr)
     string.include?("a")
   end
 end
+end
 
  def first_wa(arr)
     arr.detect do |string|
